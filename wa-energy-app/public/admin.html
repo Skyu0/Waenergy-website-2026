@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WA Energy — Admin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/admin.css">
+</head>
+<body class="admin-body">
+
+<div id="loginView" class="admin-login-wrap">
+  <div class="admin-login-card">
+    <img src="/assets/logo_nav.png" alt="WA Energy">
+    <h2>Admin Login</h2>
+    <p class="sub">Manage users, WZN balances and referrals.</p>
+    <div class="form-field"><label>Username</label><input id="adminUser" type="text" placeholder="Username"></div>
+    <div class="form-field"><label>Password</label><input id="adminPass" type="password" placeholder="Password"></div>
+    <button class="btn btn-primary btn-block" onclick="adminLogin()">Log In</button>
+    <p id="loginError" style="color:#C4264A;font-size:13px;margin-top:14px;display:none"></p>
+  </div>
+</div>
+
+<div id="panelView" style="display:none">
+  <div class="admin-nav">
+    <div class="brand"><img src="/assets/logo_nav.png" alt=""> Admin Panel</div>
+    <button class="btn btn-outline btn-sm" style="border-color:rgba(255,255,255,.4);color:#fff" onclick="adminLogout()">Log Out</button>
+  </div>
+  <div class="admin-wrap">
+    <div class="admin-summary" id="adminSummary"></div>
+    <div class="admin-table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr>
+            <th>User</th><th>Property</th><th>WZN Balance</th><th>Referral Code</th>
+            <th>Referred By</th><th>Referrals Made</th><th>Cart Items</th><th>Joined</th>
+          </tr>
+        </thead>
+        <tbody id="usersTableBody"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="/admin.js"></script>
+</body>
+</html>

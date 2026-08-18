@@ -1,0 +1,7 @@
+[
+  {"id":"panels","name":"Solar Panels","icon":"/assets/cat_panel.jpg","sort_order":1},
+  {"id":"inverters","name":"Inverters","icon":"/assets/cat_inverter.jpg","sort_order":2},
+  {"id":"batteries","name":"Batteries","icon":"/assets/cat_battery.jpg","sort_order":3},
+  {"id":"lights","name":"Street Lights","icon":"/assets/cat_light.jpg","sort_order":4},
+  {"id":"cctv","name":"CCTV","icon":"/assets/cat_cctv.jpg","sort_order":5}
+]

@@ -1,0 +1,18 @@
+{
+  "waPhone": "2349131445226",
+  "company": {
+    "name": "WA Energy",
+    "tagline": "Solar and Inverter Solution",
+    "address": "Plot 312, Off Womzy Hotel, Lugbe FHA, Abuja 900107",
+    "phone": "09131445226",
+    "email": "waenergy26@gmail.com",
+    "ig": "Waenergy",
+    "lat": 9.0092,
+    "lon": 7.3733
+  },
+  "underPlan": [
+    {"icon":"/assets/policy_icon.png","title":"7-Day Return Policy","text":"Your satisfaction is important to us. Eligible products may be returned within 7 days of purchase, subject to our return policy terms and conditions."},
+    {"icon":"/assets/installment_icon.png","title":"Flexible Installment Plans","text":"Own your solar system with ease through our flexible installment payment options, designed to make clean energy affordable for homes and businesses."},
+    {"icon":"/assets/delivery_icon.png","title":"Fast & Reliable Delivery","text":"We offer prompt and secure delivery of your purchased solar products to your home, office, or project site, ensuring they arrive safely and on time."}
+  ]
+}

@@ -1,0 +1,1216 @@
+[
+ {
+  "id": "p1",
+  "cat": "panels",
+  "badge": "top",
+  "name": "Africell 450w Mono",
+  "images": [
+   "/assets/products/panels-africell-450w-mono/1.jpg"
+  ],
+  "desc": "Africell 450W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "450W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Standard anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p2",
+  "cat": "panels",
+  "badge": "best",
+  "name": "Africell 550w Mono",
+  "images": [
+   "/assets/products/panels-africell-550w-mono/1.jpg"
+  ],
+  "desc": "Africell 550W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "550W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Standard anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p3",
+  "cat": "panels",
+  "badge": "new",
+  "name": "Africell 600w Mono",
+  "images": [
+   "/assets/products/panels-africell-600w-mono/1.jpg"
+  ],
+  "desc": "Africell 600W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "600W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Standard anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p4",
+  "cat": "panels",
+  "badge": "pro",
+  "name": "Exulted H 460w black",
+  "images": [
+   "/assets/products/panels-exulted-h-460w-black/1.jpg"
+  ],
+  "desc": "Exulted 460W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "460W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Full Black anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p5",
+  "cat": "panels",
+  "badge": "max",
+  "name": "Exulted H 650w black",
+  "images": [
+   "/assets/products/panels-exulted-h-650w-black/1.jpg"
+  ],
+  "desc": "Exulted 650W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "650W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Full Black anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p6",
+  "cat": "panels",
+  "badge": "lite",
+  "name": "Jinko panel 450w Mono",
+  "images": [
+   "/assets/products/panels-jinko-panel-450w-mono/1.jpg"
+  ],
+  "desc": "Jinko 450W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "450W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Standard anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p7",
+  "cat": "panels",
+  "badge": "eco",
+  "name": "Jinko panel 550w Mono",
+  "images": [
+   "/assets/products/panels-jinko-panel-550w-mono/1.jpg"
+  ],
+  "desc": "Jinko 550W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "550W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Standard anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p8",
+  "cat": "panels",
+  "badge": "top",
+  "name": "Jinko panel 585w Mono",
+  "images": [
+   "/assets/products/panels-jinko-panel-585w-mono/1.jpg"
+  ],
+  "desc": "Jinko 585W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "585W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Standard anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p9",
+  "cat": "panels",
+  "badge": "best",
+  "name": "Jinko panel 650w Mono",
+  "images": [
+   "/assets/products/panels-jinko-panel-650w-mono/1.jpg"
+  ],
+  "desc": "Jinko 650W monocrystalline solar panel built for strong output under Nigeria's peak sun hours.",
+  "specs": {
+   "Power Output": "650W",
+   "Cell Type": "Monocrystalline",
+   "Efficiency": "21.0% - 21.5%",
+   "Frame": "Standard anodised aluminium",
+   "Warranty": "12 yrs product / 25 yrs performance"
+  }
+ },
+ {
+  "id": "p10",
+  "cat": "inverters",
+  "badge": "new",
+  "name": "C Worth inverter 12kva 48v Hybrid",
+  "images": [
+   "/assets/products/inverters-c-worth-inverter-12kva-48v-hybrid/1.jpg"
+  ],
+  "desc": "C-Worth 12KVA 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "12KVA",
+   "Voltage": "48V",
+   "Type": "Hybrid",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p11",
+  "cat": "inverters",
+  "badge": "pro",
+  "name": "C Worth inverter 4kva 24v Hybrid",
+  "images": [
+   "/assets/products/inverters-c-worth-inverter-4kva-24v-hybrid/1.jpg",
+   "/assets/products/inverters-c-worth-inverter-4kva-24v-hybrid/2.jpg",
+   "/assets/products/inverters-c-worth-inverter-4kva-24v-hybrid/3.jpg"
+  ],
+  "desc": "C-Worth 4KVA 24V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "4KVA",
+   "Voltage": "24V",
+   "Type": "Hybrid",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p12",
+  "cat": "inverters",
+  "badge": "max",
+  "name": "C Worth inverter 6kva 48v Hybrid",
+  "images": [
+   "/assets/products/inverters-c-worth-inverter-6kva-48v-hybrid/1.jpg"
+  ],
+  "desc": "C-Worth 6KVA 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "6KVA",
+   "Voltage": "48V",
+   "Type": "Hybrid",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p13",
+  "cat": "inverters",
+  "badge": "lite",
+  "name": "Felicity inverter 10kva 48v Hybrid",
+  "images": [
+   "/assets/products/inverters-felicity-inverter-10kva-48v-hybrid/1.jpg"
+  ],
+  "desc": "Felicity 10KVA 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "10KVA",
+   "Voltage": "48V",
+   "Type": "Hybrid",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p14",
+  "cat": "inverters",
+  "badge": "eco",
+  "name": "Felicity inverter 3.5kva 24v non-hybrid",
+  "images": [
+   "/assets/products/inverters-felicity-inverter-3-5kva-24v-non-hybrid/1.jpg"
+  ],
+  "desc": "Felicity 3.5KVA 24V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "3.5KVA",
+   "Voltage": "24V",
+   "Type": "Hybrid",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p15",
+  "cat": "inverters",
+  "badge": "top",
+  "name": "Felicity inverter 5kva 48v Hybrid transformer based",
+  "images": [
+   "/assets/products/inverters-felicity-inverter-5kva-48v-hybrid-transformer-based/1.jpg"
+  ],
+  "desc": "Felicity 5KVA 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "5KVA",
+   "Voltage": "48V",
+   "Type": "Hybrid",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p16",
+  "cat": "inverters",
+  "badge": "best",
+  "name": "Felicity inverter 6kva IVEM",
+  "images": [
+   "/assets/products/inverters-felicity-inverter-6kva-ivem/1.jpg",
+   "/assets/products/inverters-felicity-inverter-6kva-ivem/2.jpg"
+  ],
+  "desc": "Felicity 6KVA inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "6KVA",
+   "Voltage": "-",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p17",
+  "cat": "inverters",
+  "badge": "new",
+  "name": "Felicity inverter 7.5kva 48v",
+  "images": [
+   "/assets/products/inverters-felicity-inverter-7-5kva-48v/1.jpg"
+  ],
+  "desc": "Felicity 7.5KVA 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "7.5KVA",
+   "Voltage": "48V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p18",
+  "cat": "inverters",
+  "badge": "pro",
+  "name": "Felicity inverter 8kva IVEM",
+  "images": [
+   "/assets/products/inverters-felicity-inverter-8kva-ivem/1.jpg"
+  ],
+  "desc": "Felicity 8KVA inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "8KVA",
+   "Voltage": "-",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p19",
+  "cat": "inverters",
+  "badge": "max",
+  "name": "Fireman inverter 11kw 48v TL",
+  "images": [
+   "/assets/products/inverters-fireman-inverter-11kw-48v-tl/1.jpg"
+  ],
+  "desc": "Fireman 11KW 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "11KW",
+   "Voltage": "48V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p20",
+  "cat": "inverters",
+  "badge": "lite",
+  "name": "Fireman inverter 3kw 24v TB",
+  "images": [
+   "/assets/products/inverters-fireman-inverter-3kw-24v-tb/1.jpg"
+  ],
+  "desc": "Fireman 3KW 24V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "3KW",
+   "Voltage": "24V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p21",
+  "cat": "inverters",
+  "badge": "eco",
+  "name": "Fireman inverter 3kw 24v TL",
+  "images": [
+   "/assets/products/inverters-fireman-inverter-3kw-24v-tl/1.jpg"
+  ],
+  "desc": "Fireman 3KW 24V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "3KW",
+   "Voltage": "24V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p22",
+  "cat": "inverters",
+  "badge": "top",
+  "name": "Fireman inverter 5kw 48v TB",
+  "images": [
+   "/assets/products/inverters-fireman-inverter-5kw-48v-tb/1.jpg",
+   "/assets/products/inverters-fireman-inverter-5kw-48v-tb/2.jpg"
+  ],
+  "desc": "Fireman 5KW 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "5KW",
+   "Voltage": "48V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p23",
+  "cat": "inverters",
+  "badge": "best",
+  "name": "Fireman inverter 6kw 48v TL",
+  "images": [
+   "/assets/products/inverters-fireman-inverter-6kw-48v-tl/1.jpg"
+  ],
+  "desc": "Fireman 6KW 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "6KW",
+   "Voltage": "48V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p24",
+  "cat": "inverters",
+  "badge": "new",
+  "name": "Itel Inverter 12kw 48v",
+  "images": [
+   "/assets/products/inverters-itel-inverter-12kw-48v/1.jpg"
+  ],
+  "desc": "Itel 12KW 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "12KW",
+   "Voltage": "48V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p25",
+  "cat": "inverters",
+  "badge": "pro",
+  "name": "Itel Inverter 3kw 24v",
+  "images": [
+   "/assets/products/inverters-itel-inverter-3kw-24v/1.jpg"
+  ],
+  "desc": "Itel 3KW 24V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "3KW",
+   "Voltage": "24V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p26",
+  "cat": "inverters",
+  "badge": "max",
+  "name": "Itel Inverter 6kw 24v",
+  "images": [
+   "/assets/products/inverters-itel-inverter-6kw-24v/1.jpg"
+  ],
+  "desc": "Itel 6KW 24V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "6KW",
+   "Voltage": "24V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p27",
+  "cat": "inverters",
+  "badge": "lite",
+  "name": "Itel Inverter 8kw 48v",
+  "images": [
+   "/assets/products/inverters-itel-inverter-8kw-48v/1.jpg"
+  ],
+  "desc": "Itel 8KW 48V inverter delivering dependable power switching for homes and businesses.",
+  "specs": {
+   "Capacity": "8KW",
+   "Voltage": "48V",
+   "Type": "Pure Sine Wave",
+   "MPPT": "Built-in MPPT charge controller",
+   "Display": "LCD"
+  }
+ },
+ {
+  "id": "p28",
+  "cat": "batteries",
+  "badge": "eco",
+  "name": "C Worth lithium battery 12v 1.3kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-12v-1-3kwh/1.jpg"
+  ],
+  "desc": "C-Worth 1.3kWh 12V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "1.3kWh",
+   "Voltage": "12V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p29",
+  "cat": "batteries",
+  "badge": "top",
+  "name": "C Worth lithium battery 12v 2.5kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-12v-2-5kwh/1.jpg"
+  ],
+  "desc": "C-Worth 2.5kWh 12V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "2.5kWh",
+   "Voltage": "12V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p30",
+  "cat": "batteries",
+  "badge": "best",
+  "name": "C Worth lithium battery 24v 2.5kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-24v-2-5kwh/1.jpg"
+  ],
+  "desc": "C-Worth 2.5kWh 24V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "2.5kWh",
+   "Voltage": "24V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p31",
+  "cat": "batteries",
+  "badge": "new",
+  "name": "C Worth lithium battery 24v 5kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-24v-5kwh/1.jpg",
+   "/assets/products/batteries-c-worth-lithium-battery-24v-5kwh/2.jpg"
+  ],
+  "desc": "C-Worth 5kWh 24V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "5kWh",
+   "Voltage": "24V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p32",
+  "cat": "batteries",
+  "badge": "pro",
+  "name": "C Worth lithium battery 48v 10kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-48v-10kwh/1.jpg",
+   "/assets/products/batteries-c-worth-lithium-battery-48v-10kwh/2.jpg"
+  ],
+  "desc": "C-Worth 10kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "10kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p33",
+  "cat": "batteries",
+  "badge": "max",
+  "name": "C Worth lithium battery 48v 15kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-48v-15kwh/1.jpg"
+  ],
+  "desc": "C-Worth 15kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "15kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p34",
+  "cat": "batteries",
+  "badge": "lite",
+  "name": "C Worth lithium battery 48v 20kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-48v-20kwh/1.jpg"
+  ],
+  "desc": "C-Worth 20kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "20kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p35",
+  "cat": "batteries",
+  "badge": "eco",
+  "name": "C Worth lithium battery 48v 7.5kwh",
+  "images": [
+   "/assets/products/batteries-c-worth-lithium-battery-48v-7-5kwh/1.jpg"
+  ],
+  "desc": "C-Worth 7.5kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "7.5kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p36",
+  "cat": "batteries",
+  "badge": "top",
+  "name": "Deye lithium battery 10.24kwh 51.2v",
+  "images": [
+   "/assets/products/batteries-deye-lithium-battery-10-24kwh-51-2v/1.jpg",
+   "/assets/products/batteries-deye-lithium-battery-10-24kwh-51-2v/2.jpg",
+   "/assets/products/batteries-deye-lithium-battery-10-24kwh-51-2v/3.jpg"
+  ],
+  "desc": "Deye 10.24kWh 51.2V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "10.24kWh",
+   "Voltage": "51.2V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p37",
+  "cat": "batteries",
+  "badge": "best",
+  "name": "Deye lithium battery 16kwh 51.2v",
+  "images": [
+   "/assets/products/batteries-deye-lithium-battery-16kwh-51-2v/1.jpg",
+   "/assets/products/batteries-deye-lithium-battery-16kwh-51-2v/2.jpg",
+   "/assets/products/batteries-deye-lithium-battery-16kwh-51-2v/3.jpg",
+   "/assets/products/batteries-deye-lithium-battery-16kwh-51-2v/4.jpg"
+  ],
+  "desc": "Deye 16kWh 51.2V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "16kWh",
+   "Voltage": "51.2V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p38",
+  "cat": "batteries",
+  "badge": "new",
+  "name": "Deye lithium battery 5.12kwh 51.2v - Low voltage",
+  "images": [
+   "/assets/products/batteries-deye-lithium-battery-5-12kwh-51-2v-low-voltage/1.jpg",
+   "/assets/products/batteries-deye-lithium-battery-5-12kwh-51-2v-low-voltage/2.jpg"
+  ],
+  "desc": "Deye 5.12kWh 51.2V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "5.12kWh",
+   "Voltage": "51.2V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p39",
+  "cat": "batteries",
+  "badge": "pro",
+  "name": "Deye lithium battery 5kwh- High voltage",
+  "images": [
+   "/assets/products/batteries-deye-lithium-battery-5kwh-high-voltage/1.jpg",
+   "/assets/products/batteries-deye-lithium-battery-5kwh-high-voltage/2.jpg"
+  ],
+  "desc": "Deye 5kWh lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "5kWh",
+   "Voltage": "-",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p40",
+  "cat": "batteries",
+  "badge": "max",
+  "name": "Felicity lithium ion battery 24v 5kwh",
+  "images": [
+   "/assets/products/batteries-felicity-lithium-ion-battery-24v-5kwh/1.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-24v-5kwh/2.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-24v-5kwh/3.jpg"
+  ],
+  "desc": "Felicity 5kWh 24V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "5kWh",
+   "Voltage": "24V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p41",
+  "cat": "batteries",
+  "badge": "lite",
+  "name": "Felicity lithium ion battery 48v 10kwh",
+  "images": [
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-10kwh/1.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-10kwh/2.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-10kwh/3.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-10kwh/4.jpg"
+  ],
+  "desc": "Felicity 10kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "10kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p42",
+  "cat": "batteries",
+  "badge": "eco",
+  "name": "Felicity lithium ion battery 48v 15kwh",
+  "images": [
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-15kwh/1.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-15kwh/2.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-15kwh/3.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-15kwh/4.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-15kwh/5.jpg"
+  ],
+  "desc": "Felicity 15kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "15kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p43",
+  "cat": "batteries",
+  "badge": "top",
+  "name": "Felicity lithium ion battery 48v 17.5kwh",
+  "images": [
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-17-5kwh/1.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-17-5kwh/2.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-17-5kwh/3.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-17-5kwh/4.jpg"
+  ],
+  "desc": "Felicity 17.5kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "17.5kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p44",
+  "cat": "batteries",
+  "badge": "best",
+  "name": "Felicity lithium ion battery 48v 25kwh",
+  "images": [
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-25kwh/1.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-25kwh/2.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-25kwh/3.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-25kwh/4.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-25kwh/5.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-25kwh/6.jpg"
+  ],
+  "desc": "Felicity 25kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "25kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p45",
+  "cat": "batteries",
+  "badge": "new",
+  "name": "Felicity lithium ion battery 48v 7.2kwh",
+  "images": [
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-7-2kwh/1.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-7-2kwh/2.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-7-2kwh/3.jpg",
+   "/assets/products/batteries-felicity-lithium-ion-battery-48v-7-2kwh/4.jpg"
+  ],
+  "desc": "Felicity 7.2kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "7.2kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p46",
+  "cat": "batteries",
+  "badge": "pro",
+  "name": "Fireman lithium battery 24v 5kwh",
+  "images": [
+   "/assets/products/batteries-fireman-lithium-battery-24v-5kwh/1.jpg",
+   "/assets/products/batteries-fireman-lithium-battery-24v-5kwh/2.jpg",
+   "/assets/products/batteries-fireman-lithium-battery-24v-5kwh/3.jpg"
+  ],
+  "desc": "Fireman 5kWh 24V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "5kWh",
+   "Voltage": "24V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p47",
+  "cat": "batteries",
+  "badge": "max",
+  "name": "Fireman lithium battery 48v 10kwh",
+  "images": [
+   "/assets/products/batteries-fireman-lithium-battery-48v-10kwh/1.jpg",
+   "/assets/products/batteries-fireman-lithium-battery-48v-10kwh/2.jpg"
+  ],
+  "desc": "Fireman 10kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "10kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p48",
+  "cat": "batteries",
+  "badge": "lite",
+  "name": "Fireman lithium battery 48v 15kwh",
+  "images": [
+   "/assets/products/batteries-fireman-lithium-battery-48v-15kwh/1.jpg"
+  ],
+  "desc": "Fireman 15kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "15kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p49",
+  "cat": "batteries",
+  "badge": "eco",
+  "name": "Itel lithium battery 24v 2.5kwh",
+  "images": [
+   "/assets/products/batteries-itel-lithium-battery-24v-2-5kwh/1.jpg",
+   "/assets/products/batteries-itel-lithium-battery-24v-2-5kwh/2.jpg",
+   "/assets/products/batteries-itel-lithium-battery-24v-2-5kwh/3.jpg"
+  ],
+  "desc": "Itel 2.5kWh 24V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "2.5kWh",
+   "Voltage": "24V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p50",
+  "cat": "batteries",
+  "badge": "top",
+  "name": "Itel lithium battery 24v 5kwh",
+  "images": [
+   "/assets/products/batteries-itel-lithium-battery-24v-5kwh/1.jpg"
+  ],
+  "desc": "Itel 5kWh 24V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "5kWh",
+   "Voltage": "24V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p51",
+  "cat": "batteries",
+  "badge": "best",
+  "name": "Itel lithium battery 48v 16kwh",
+  "images": [
+   "/assets/products/batteries-itel-lithium-battery-48v-16kwh/1.jpg"
+  ],
+  "desc": "Itel 16kWh 48V lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "16kWh",
+   "Voltage": "48V",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p52",
+  "cat": "batteries",
+  "badge": "new",
+  "name": "SRNE lithium battery 10kwh",
+  "images": [
+   "/assets/products/batteries-srne-lithium-battery-10kwh/1.jpg"
+  ],
+  "desc": "SRNE 10kWh lithium battery for safe, long-cycle energy storage.",
+  "specs": {
+   "Capacity": "10kWh",
+   "Voltage": "-",
+   "Chemistry": "LiFePO4 (Lithium Iron Phosphate)",
+   "Cycle Life": "5,000+ cycles",
+   "Warranty": "8-10 years"
+  }
+ },
+ {
+  "id": "p53",
+  "cat": "lights",
+  "badge": "pro",
+  "name": "AKT street light 200W",
+  "images": [
+   "/assets/products/lights-akt-street-light-200w/1.jpg",
+   "/assets/products/lights-akt-street-light-200w/2.jpg"
+  ],
+  "desc": "AKT 200W all-in-one solar street light with motion sensing, built for roads, estates and compounds.",
+  "specs": {
+   "Power": "200W",
+   "Light Source": "LED",
+   "Sensor": "Motion + Light sensor",
+   "Battery": "Built-in lithium",
+   "Mount": "Pole mount"
+  }
+ },
+ {
+  "id": "p54",
+  "cat": "lights",
+  "badge": "max",
+  "name": "SMS street light 400W",
+  "images": [
+   "/assets/products/lights-sms-street-light-400w/1.jpg"
+  ],
+  "desc": "SMS 400W all-in-one solar street light with motion sensing, built for roads, estates and compounds.",
+  "specs": {
+   "Power": "400W",
+   "Light Source": "LED",
+   "Sensor": "Motion + Light sensor",
+   "Battery": "Built-in lithium",
+   "Mount": "Pole mount"
+  }
+ },
+ {
+  "id": "p55",
+  "cat": "cctv",
+  "badge": "lite",
+  "name": "2 MP Ultra Low Light Fixed Bullet Camera",
+  "images": [
+   "/assets/products/cctv-2-mp-ultra-low-light-fixed-bullet-camera/1.jpg"
+  ],
+  "desc": "2 MP Ultra Low Light Fixed Bullet Camera \u2014 bullet security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "2 MP",
+   "Camera Type": "Bullet",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p56",
+  "cat": "cctv",
+  "badge": "eco",
+  "name": "2 MP Ultra Low Light Motorized Varifocal Bullet Camera",
+  "images": [
+   "/assets/products/cctv-2-mp-ultra-low-light-motorized-varifocal-bullet-camera/1.jpg"
+  ],
+  "desc": "2 MP Ultra Low Light Motorized Varifocal Bullet Camera \u2014 bullet security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "2 MP",
+   "Camera Type": "Bullet",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p57",
+  "cat": "cctv",
+  "badge": "top",
+  "name": "4K ColorVu PoC Fixed Mini Bullet Camera",
+  "images": [
+   "/assets/products/cctv-4k-colorvu-poc-fixed-mini-bullet-camera/1.jpg"
+  ],
+  "desc": "4K ColorVu PoC Fixed Mini Bullet Camera \u2014 bullet security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "4K",
+   "Camera Type": "Bullet",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p58",
+  "cat": "cctv",
+  "badge": "best",
+  "name": "4K ColorVu PoC Fixed Turret Camera",
+  "images": [
+   "/assets/products/cctv-4k-colorvu-poc-fixed-turret-camera/1.jpg"
+  ],
+  "desc": "4K ColorVu PoC Fixed Turret Camera \u2014 turret security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "4K",
+   "Camera Type": "Turret",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p59",
+  "cat": "cctv",
+  "badge": "new",
+  "name": "4K Fixed Mini Bullet Camera",
+  "images": [
+   "/assets/products/cctv-4k-fixed-mini-bullet-camera/1.jpg",
+   "/assets/products/cctv-4k-fixed-mini-bullet-camera/2.jpg",
+   "/assets/products/cctv-4k-fixed-mini-bullet-camera/3.jpg"
+  ],
+  "desc": "4K Fixed Mini Bullet Camera \u2014 bullet security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "4K",
+   "Camera Type": "Bullet",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p60",
+  "cat": "cctv",
+  "badge": "pro",
+  "name": "4K Fixed Turret Camera",
+  "images": [
+   "/assets/products/cctv-4k-fixed-turret-camera/1.jpg"
+  ],
+  "desc": "4K Fixed Turret Camera \u2014 turret security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "4K",
+   "Camera Type": "Turret",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p61",
+  "cat": "cctv",
+  "badge": "max",
+  "name": "5 MP Fixed Bullet Camera",
+  "images": [
+   "/assets/products/cctv-5-mp-fixed-bullet-camera/1.jpg"
+  ],
+  "desc": "5 MP Fixed Bullet Camera \u2014 bullet security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "5 MP",
+   "Camera Type": "Bullet",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p62",
+  "cat": "cctv",
+  "badge": "lite",
+  "name": "5 MP Fixed Turret Camera",
+  "images": [
+   "/assets/products/cctv-5-mp-fixed-turret-camera/1.jpg"
+  ],
+  "desc": "5 MP Fixed Turret Camera \u2014 turret security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "5 MP",
+   "Camera Type": "Turret",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p63",
+  "cat": "cctv",
+  "badge": "eco",
+  "name": "5 MP Motorized Varifocal Bullet Camera",
+  "images": [
+   "/assets/products/cctv-5-mp-mptorized-varifocal-bullet-camera/1.jpg"
+  ],
+  "desc": "5 MP Motorized Varifocal Bullet Camera \u2014 bullet security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "5 MP",
+   "Camera Type": "Bullet",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p64",
+  "cat": "cctv",
+  "badge": "top",
+  "name": "5 MP Vandal Fixed Dome Camera",
+  "images": [
+   "/assets/products/cctv-5-mp-vandal-fixed-dome-camera/1.jpg"
+  ],
+  "desc": "5 MP Vandal Fixed Dome Camera \u2014 dome security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "5 MP",
+   "Camera Type": "Dome",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p65",
+  "cat": "cctv",
+  "badge": "best",
+  "name": "HIK WIFI PTZ - Three Lens Solar Camera",
+  "images": [
+   "/assets/products/cctv-hik-wifi-ptz-three-lens-solar-camera/1.jpg"
+  ],
+  "desc": "HIK WIFI PTZ - Three Lens Solar Camera \u2014 ptz security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "-",
+   "Camera Type": "PTZ",
+   "Night Vision": "Yes",
+   "Solar Powered": "Yes",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p66",
+  "cat": "cctv",
+  "badge": "new",
+  "name": "HIK WIFI PTZ Solar Security Camera",
+  "images": [
+   "/assets/products/cctv-hik-wifi-ptz-solar-security-camera/1.jpg"
+  ],
+  "desc": "HIK WIFI PTZ Solar Security Camera \u2014 ptz security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "-",
+   "Camera Type": "PTZ",
+   "Night Vision": "Yes",
+   "Solar Powered": "Yes",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p67",
+  "cat": "cctv",
+  "badge": "pro",
+  "name": "Hikvision 5MP Turret Camera with 40m Night Vision",
+  "images": [
+   "/assets/products/cctv-hikvision-5mp-turret-camera-with-40m-night-vision/1.jpg"
+  ],
+  "desc": "Hikvision 5MP Turret Camera with 40m Night Vision \u2014 turret security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "5MP",
+   "Camera Type": "Turret",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p68",
+  "cat": "cctv",
+  "badge": "max",
+  "name": "Hikvision Analog Dome Camera",
+  "images": [
+   "/assets/products/cctv-hikvision-analog-dome-camera/1.jpg"
+  ],
+  "desc": "Hikvision Analog Dome Camera \u2014 dome security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "-",
+   "Camera Type": "Dome",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ },
+ {
+  "id": "p69",
+  "cat": "cctv",
+  "badge": "lite",
+  "name": "Hikvision Bullet Camera",
+  "images": [
+   "/assets/products/cctv-hikvision-bullet-camera/1.jpg"
+  ],
+  "desc": "Hikvision Bullet Camera \u2014 bullet security camera offering clear day and night surveillance footage.",
+  "specs": {
+   "Resolution": "-",
+   "Camera Type": "Bullet",
+   "Night Vision": "Yes",
+   "Solar Powered": "No (DC/PoE powered)",
+   "Weatherproof": "IP66/IP67"
+  }
+ }
+]

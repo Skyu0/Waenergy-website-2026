@@ -1,0 +1,16 @@
+[
+  {"question":"How does WA Energy decide which solar plan is right for me?","sort_order":1,
+   "answer":"We combine your signup details (home or business, and the appliances you run) with live weather and sun-hour data for your location to recommend a plan sized to your actual usage."},
+  {"question":"Do I need to pay everything upfront?","sort_order":2,
+   "answer":"No. We offer flexible installment plans so you can own your solar system over time instead of paying the full cost at once."},
+  {"question":"What is the Wizenium Token (WZN) and how do I use it?","sort_order":3,
+   "answer":"WZN is our in-app reward token. New members start with 2,500 WZN, and you earn more by purchasing products. Tokens can be applied toward eligible purchases at checkout."},
+  {"question":"Do you install outside Abuja?","sort_order":4,
+   "answer":"Yes, our team handles installations and deliveries across Nigeria. Delivery timelines vary by location."},
+  {"question":"What happens after I request a quote?","sort_order":5,
+   "answer":"Your request is sent straight to our WhatsApp line, where our team reviews your selection and responds with pricing and next steps."},
+  {"question":"Is there a warranty on products?","sort_order":6,
+   "answer":"Yes, all panels, inverters and batteries come with manufacturer warranties, and our 7-day return policy covers eligible products after delivery."},
+  {"question":"When will WZN Token officially launch?","sort_order":7,
+   "answer":"There's no official launch date yet. WZN currently works as an in-app reward you earn from signing up, purchases and referrals. Once it officially launches for full redemption, a banner will appear right on your dashboard to let you know \u2014 your existing balance will carry over."}
+]

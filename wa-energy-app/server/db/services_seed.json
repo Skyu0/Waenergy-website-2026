@@ -1,0 +1,14 @@
+[
+  {"icon":"/assets/svc_survey.png","title":"Solar Site Survey & Energy Assessment","sort_order":1,
+   "text":"Evaluating your location, power needs, and energy consumption to design the most suitable solar solution for your home or business.",
+   "more":"Our engineers visit your site to assess roof space, shading, wiring and your daily energy use, then use that data to size a system that actually matches how you live or work \u2014 not a generic package."},
+  {"icon":"/assets/svc_design.png","title":"Solar System Design & Installation","sort_order":2,
+   "text":"Creating and installing customized solar systems with quality panels, inverters, batteries, and accessories for reliable power supply.",
+   "more":"From single-line diagrams to final commissioning, our certified installers handle panel mounting, wiring, inverter configuration and safety testing so your system is ready to run from day one."},
+  {"icon":"/assets/svc_maintenance.png","title":"Solar Maintenance & Repairs","sort_order":3,
+   "text":"Providing regular checks, troubleshooting, and repairs to keep your solar system operating efficiently and extending its lifespan.",
+   "more":"We offer scheduled maintenance visits, panel cleaning, battery health checks and fast-response repairs so small issues never turn into costly downtime."},
+  {"icon":"/assets/svc_consultation.png","title":"Solar Consultation & Energy Solutions","sort_order":4,
+   "text":"Offering expert advice and tailored recommendations to help customers choose the right solar system based on their energy requirements and budget.",
+   "more":"Not sure where to start? Our consultants walk you through your options, financing plans and expected savings, so you can make a confident, well-informed decision."}
+]
